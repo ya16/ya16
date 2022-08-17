@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🏾
 
 My name is Yusuf and I'm a Research Assistant @ the UCL Institute of Neurology, focusing on ALS/MND and Dementia Research! 
 
