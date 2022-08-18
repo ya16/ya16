@@ -1,6 +1,6 @@
 ### Hi there 👋🏾
 
-My name is Yusuf and I'm a Research Assistant @ the UCL Institute of Neurology, focusing on ALS/MND and Dementia Research! 
+My name is Yusuf and I'm a Research Assistant @ the UCL Institute of Neurology, as part of the [Sharma Lab](https://github.com/thesharmalab-team) focusing on ALS/MND and Dementia Research! 
 
 - 🧐 I'm interested in the crossover between health and data science!
 - 🔭 I’m currently working on :
